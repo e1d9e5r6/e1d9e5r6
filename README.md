@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Eder de Araujo Barbosa!</strong>
 
-□ Superior Completo - Engenheiro Civil, Universidade Federal do Rio Grande do Sul – turma de 1979.
+□ Superior Completo - Engenheiro Civil, Universidade Federal do Rio Grande do Sul – turma de 1979.<br>
 □ Técnico em Transações Imobiliárias - turma de 1986
 □ Certificado em Formação de Auditores Líderes de Sistemas Integrados de Gestão – Lead Assessor ISSO 9001: 2000, ISO 14001: 2004, OHSAS 18001: 2007.- turma de 2008.
 □ Pós Graduação em Engenharia de Segurança e Higiene do Trabalho – Universidade Luterana do Brasil, Campus Canoas. – turma de 2008.
