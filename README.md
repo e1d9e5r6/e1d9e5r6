@@ -12,12 +12,13 @@
 □ Gerenciamento de Produção de empresa de construção civil de até 200 funcionários.<br>
 □ Perito Judicial Civil<br>
 □ Perito Assistente Judicial Civil<br>
-□ Desenvolvedor em Visual Basic.<br>
-□ Programador para Internet em ASP e ASPx.<br>
-□ Programador em Banco de dados Access e SQL Server.<br>
 □ Desenho arquitetônico: Auto Cad, Arq 3D, 3DMax.<br>
 □ Consultor técnico para empresas na área da Engenharia, Medicina e Segurança do Trabalho.<br>
 □ Consultor de manutenção para administradoras de condomínios residenciais e comerciais<br>
+□ Desenvolvedor em Visual Basic.<br>
+□ Programador para Internet em ASP e ASPx.<br>
+□ Programador em Banco de dados Access e SQL Server.<br>
+□ Cursando Growdev Full Stack - Turma 18.<br>
 
 🔭 Estou trabalhando em desenvolvimento sites WEB
 
