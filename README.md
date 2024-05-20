@@ -18,7 +18,7 @@
 □ Desenvolvedor em Visual Basic.<br>
 □ Programador para Internet em ASP e ASPx.<br>
 □ Programador em Banco de dados Access e SQL Server.<br>
-□ Cursando Growdev Full Stack - Turma 18.<br>
+□ Cursando Growdev Full Stack - Turma 20.<br>
 
 🔭 Estou trabalhando em desenvolvimento sites WEB
 
